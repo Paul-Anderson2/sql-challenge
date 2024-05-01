@@ -8,5 +8,5 @@ That is, you’ll perform data modeling, data engineering, and data analysis, re
 
 The table and column setup for the database is located in the .sql file called 'schema_mod9'
 The queries to produce the results asked for in the challenge are in the .sql file called 'Analysis_queries_MOD9'                              
-a txt file is included for the txt used to create the ERD diagram on quickdatabasediagrams.com
+a txt file is included for the txt used to create the ERD diagram on quickdatabasediagrams.com, and a SQL file is included with the same code
 The ERD diagram in the .png file was created using the above code on quickdatabasediagrams.com
